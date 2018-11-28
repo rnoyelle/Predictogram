@@ -1,7 +1,9 @@
 # Predictogram
 
 
-Predictogram explores the Gray dataset using a linear regression trying to predict a signal from another from different brain regions and from different frequency band. It also transforms the raw data from MATLAB to NumPy-ready and applies the usual pre-processing steps as well as dealing with the analysis and visualization of the results
+Predictogram explores the Gray dataset using a linear regression trying to predict a signal from another from different brain regions and from different frequency band. It also transforms the raw data from MATLAB to NumPy-ready and applies the usual pre-processing steps as well as dealing with the analysis and visualization of the results.
+
+
 network :
 conv layers
 FC layers
