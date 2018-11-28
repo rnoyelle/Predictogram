@@ -5,8 +5,11 @@ Predictogram explores the Gray dataset using a linear regression trying to predi
 
 
 network :
+
 conv layers
+
 FC layers
+
 deconv layers
 
 Its filtered the signal between : 7 and 12 Hz. It select time between : -800ms before sample on to +600ms after sample off -600 before match on to +2000ms after match on
